@@ -8,21 +8,21 @@
 }
 
 h1 {
-    font-family: 'Caesar Dressing', cursive; 
+    font-family: 'Kaushan Script', cursive;
     color: rgb(46, 1, 1);
     background-color: gray;
     font-size: 45px;  
     text-align: center; 
 }
 h2 {
-    font-family: 'Tangerine', cursive;
+    font-family: 'Kaushan Script', cursive;
     font-size: 40px;
 }
 
 p {
-   font-family: 'Courier New', Courier, monospace;
+   font-family: 'Amatic SC', cursive;
    font-weight: bolder;
-   font-size: 15px;
+   font-size: 25px;
 }
 .jumbotron {
     height: 100%;
